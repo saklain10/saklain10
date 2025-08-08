@@ -14,8 +14,7 @@ I am a web developer specializing in front-end technologies. I'm passionate abou
 ### My Latest Activities:
 
 * I’m actively exploring Next.js to build server-side rendered applications.
-* I’m currently working on a tourism website project.
-* I'm also building a blood donation platform where I used **React, Node.js, Express.js, and MongoDB** to manage data and user interactions.
+* I'm building a blood donation platform where I used **React, Node.js, Express.js, and MongoDB** to manage data and user interactions.
 
 ---
 
@@ -32,8 +31,8 @@ I am a web developer specializing in front-end technologies. I'm passionate abou
 ### Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saklain10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saklainmostak)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saklain-mostak)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saklain__mostak?t=GVLeyxohXfSnASwwd-q77Q&s=09)
 
 ---
 
